@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+        <LinearLayout
+            android:gravity="center"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+           >
+
+            <com.astuetz.PagerSlidingTabStrip
+                android:id="@+id/pst"
+                android:layout_width="wrap_content"
+                android:layout_height="50dp"
+                android:layout_below="@+id/rr"
+                android:layout_weight="0">
+
+            </com.astuetz.PagerSlidingTabStrip>
+        </LinearLayout>
+
+    <viewpager.MyViewPager
+        android:id="@+id/Home_ViewPager"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+    </viewpager.MyViewPager>
+</LinearLayout>

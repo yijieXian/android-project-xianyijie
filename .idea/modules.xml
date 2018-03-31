@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CommonPullToRefresh/CommonPullToRefresh.iml" filepath="$PROJECT_DIR$/CommonPullToRefresh/CommonPullToRefresh.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NGAG.iml" filepath="$PROJECT_DIR$/NGAG.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PagerSlidingTabStrip/PagerSlidingTabStrip.iml" filepath="$PROJECT_DIR$/PagerSlidingTabStrip/PagerSlidingTabStrip.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jcvideoplayer-lib/jcvideoplayer-lib.iml" filepath="$PROJECT_DIR$/jcvideoplayer-lib/jcvideoplayer-lib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/library/library.iml" filepath="$PROJECT_DIR$/library/library.iml" />
+    </modules>
+  </component>
+</project>
